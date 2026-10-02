@@ -1,5 +1,5 @@
 # qr_generator
-# QR Forge
+
 
 A single-file, browser-based QR code generator with support for multiple content types, custom styling, logo embedding, and export to PNG/SVG. No build step, no backend — just open the HTML file.
 
